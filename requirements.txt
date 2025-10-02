@@ -1,0 +1,5 @@
+pyperclip
+google-generativeai
+pynput
+pystray
+customtkinter
